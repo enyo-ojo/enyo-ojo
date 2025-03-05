@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @enyo-ojo
+- 👋 Hi, I’m @enyo-ojo C:\Users\fibia\Downloads\code.gif
 - 👀 I’m interested in front-end development, AI, and business Intelligence...
 - 🎆 I'm also interested in fashion and run a sustainable fashion business @fibs.madeit...
 - 🌱 I’m currently learning about cloud services and machine learning...
@@ -9,4 +9,4 @@
 enyo-ojo/enyo-ojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# yt_dashboard_proj
+
