@@ -3,7 +3,7 @@
 
 - 👋 My name is Enyo
 #### My Portfolio Projects: [Link](https://github.com/enyo-ojo/My-Portfolio/)
-
+***
 ### My Education
 - 📚 I have a computer science background(*Bachelor's*), and I started my tech career in front-end development. Check it out here: **https://enyo-ojo.github.io/enyoportfolio.github.io/**
 - ℹ️ After some time, I got interested in Data Science and then transitioned by first doing a master's in *Business analytics* and then a minor in *Machine learning* which i just graduated from btw 👏👏👩‍🎓
