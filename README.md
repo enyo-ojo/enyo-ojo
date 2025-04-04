@@ -4,7 +4,7 @@
 - 👋 My name is Enyo
 ### My Education
 - 📚 I have a computer science background(*Bachelor's*), and I started my tech career in front-end development. Check it out here: **https://enyo-ojo.github.io/enyoportfolio.github.io/**
-- ℹ️ After some time, I got interested in Data Science and then transitioned by first doing a master's in *Business analytics*and then a minor in *Machine learning* which i just graduated from btw 👏👏👩‍🎓
+- ℹ️ After some time, I got interested in Data Science and then transitioned by first doing a master's in *Business analytics* and then a minor in *Machine learning* which i just graduated from btw 👏👏👩‍🎓
 - 📈 During my program, I participated in a lot of data science projects, certifications, and hackathons to broaden my knowledge in the field
 
 ### A little about me
