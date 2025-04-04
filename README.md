@@ -1,4 +1,5 @@
-#Hi There
+# Hi There
+
 ![Episode 15 Hello GIF by SpongeBob SquarePants](https://github.com/user-attachments/assets/3b33cac8-19c9-42b4-86df-6e233f34bdc6)
 - 👋 My name is Enyo
 - 📚 I have a computer science background(*Bachelor's*), and I started my tech career in front-end development. Check it out here: **https://enyo-ojo.github.io/enyoportfolio.github.io/**
