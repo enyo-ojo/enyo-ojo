@@ -1,7 +1,9 @@
 # Hi There
+![Howdy Hello GIF by Holler Studios](https://github.com/user-attachments/assets/e70f509a-b416-4782-8699-11d9e893118b)
 
-![Episode 15 Hello GIF by SpongeBob SquarePants](https://github.com/user-attachments/assets/3b33cac8-19c9-42b4-86df-6e233f34bdc6)
 - 👋 My name is Enyo
+##### My Portfolio : 
+
 ### My Education
 - 📚 I have a computer science background(*Bachelor's*), and I started my tech career in front-end development. Check it out here: **https://enyo-ojo.github.io/enyoportfolio.github.io/**
 - ℹ️ After some time, I got interested in Data Science and then transitioned by first doing a master's in *Business analytics* and then a minor in *Machine learning* which i just graduated from btw 👏👏👩‍🎓
@@ -12,7 +14,7 @@
 - 👩‍🎨🖼️ I consider myself a creative, which is very useful in my data science and analytics journey. In another life, I would be an artist or graphic designer. Probably still in my future
 - I also enjoy reading 📚
 
-### my Projects
+### More..
 - 🌱 I’m currently learning more about cloud deployment(AWS, Azure, GCP, Snowflake) and machine learning...
 - 💞️ I’m looking to collaborate on data science projects...
 - Check out my streamlit dashboard for my deployed projects: **Streamlit: https://share.streamlit.io/user/enyo-ojo**
