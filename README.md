@@ -10,7 +10,7 @@
 - 📈 During my program, I participated in a lot of data science projects, certifications, and hackathons to broaden my knowledge in the field
 
 ### A little about me
-- 💼 In terms of work experience, I have worked as a front-end developer intern, IT analyst, and then a Customer Growth and Marketing analyst positions, all which I have leveraged my tech and data analytic skills to create insights and drive business optimization, I have also gained a lot of experiences in marketing, finance, team collaboration, data best practices and project management. I am currently looking for a data analytics or science role (also interested in marketing)
+- 💼 In terms of work experience, I have worked as a front-end developer intern, IT analyst, and then in Customer Growth and Marketing(data) analyst positions, all which I have leveraged my tech and data analytic skills to create insights and drive business optimization, I have also gained a lot of experiences in marketing, finance, team collaboration, data best practices and project management. I am currently looking for a data analytics or science role (also interested in marketing)
 - 🎆 An interesting fact about me is that I am interested in fashion and run a sustainable fashion business *@fibs.madeit*, on Instagram. This was one of the reasons I opted for a degree with a mix of business and tech just to get that business knowledge. 👩‍💼
 - 👩‍🎨🖼️ I consider myself a creative, which is very useful in my data science and analytics journey. In another life, I would be an artist or graphic designer. Probably still in my future
 - I also enjoy reading 📚
