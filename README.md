@@ -2,7 +2,7 @@
 ![Howdy Hello GIF by Holler Studios](https://github.com/user-attachments/assets/e70f509a-b416-4782-8699-11d9e893118b)
 
 - 👋 My name is Enyo
-#### My Projects: 
+#### My Projects: [Link](https://github.com/enyo-ojo/My-Portfolio/)
 
 ### My Education
 - 📚 I have a computer science background(*Bachelor's*), and I started my tech career in front-end development. Check it out here: **https://enyo-ojo.github.io/enyoportfolio.github.io/**
