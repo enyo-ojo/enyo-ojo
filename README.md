@@ -3,25 +3,35 @@
 
 - 👋 My name is Enyo (en-your)
 #### My Portfolio Projects: [Link](https://github.com/enyo-ojo/My-Portfolio/)
+**📊 My Streamlit Dashboard: https://share.streamlit.io/user/enyo-ojo |** **My Tableau Visuals: https://public.tableau.com/app/profile/enyo.alabi/vizzes** 
 ***
-### My Education
-- 📚 I have a computer science background(*Bachelor's*), and I started my tech career in front-end development. Check it out here: **https://enyo-ojo.github.io/enyoportfolio.github.io/**
-- ℹ️ After some time, I got interested in Data Science and then transitioned by first doing a master's in *Business analytics* and then a minor in *Machine learning* which I just graduated from btw 👏👏👩‍🎓
-- 📈 During my program, I participated in a lot of data science projects, certifications, and hackathons to broaden my knowledge in the field
 
-### A little about me
-- 💼 In terms of work experience, I have worked as a front-end developer intern, IT analyst, and then in Customer Growth and Marketing(data) analyst positions, all which I have leveraged my tech and data analytic skills to create insights and drive business optimization, I have also gained a lot of experiences in marketing, finance, team collaboration, data best practices and project management. I am currently looking for a data analytics or science role (also interested in marketing)
-- 🎆 An interesting fact about me is that I am interested in fashion and run a sustainable fashion business *[@fibs.madeit](https://www.instagram.com/fibsmadeit/)*, on Instagram. This was one of the reasons I opted for a degree with a mix of business and tech just to get that business knowledge. 👩‍💼
-- 👩‍🎨🖼️ I consider myself a creative, which is very useful in my data science and analytics journey. In another life, I would be an artist or graphic designer. Probably still in my future
+### 👩‍💻 About me
+I’m a data and analytics professional 📈 with a background in **Computer Science** (*Bachelor's*) and a recent **MSc in Business Analytics** graduate with a concentration in - Machine Learning.
+My journey started in front-end development and evolved into data science through hands-on projects, hackathons, and coursework. Along the way, I’ve built skills in:
+- SQL, Python, Tableau, Power BI, Streamlit, Snowflake
+- Experiment design, campaign performance, churn modeling
+- Cloud tools like AWS, GCP, and Azure (currently learning!)
+- Cross-functional collaboration with marketing, finance, and product teams
+
+### 💼 Experience Highlights
+- Worked as a Front-End Developer Intern, IT Analyst, and most recently a Customer Growth & Marketing Analyst
+- Created dashboards, automated analytics workflows, and translated insights into business action
+- Experienced across domains like marketing, finance, and operations—bringing a full-stack mindset to data challenges
+
+### 🎨 Creative Side
+Outside of tech, I run a sustainable fashion brand on Instagram *[@fibs.madeit](https://www.instagram.com/fibsmadeit/)*. My creative background enhances how I:
+- Visualize and communicate data
+- Build user-friendly dashboards
+- Connect insights with real-world impact
+
 - I also enjoy reading 📚
-***
-### More..
-- 🌱 I’m currently learning more about cloud deployment(AWS, Azure, GCP, Snowflake), machine learning and french🗼🍷...
-- 💞️ I’m looking to collaborate on data science projects...
-- Check out my streamlit dashboard for my deployed projects: **Streamlit: https://share.streamlit.io/user/enyo-ojo**
-- **Tableau: https://public.tableau.com/app/profile/enyo.alabi/vizzes** ...
+🌱I’m currently exploring cloud deployment, advanced machine learning, and… French 🇫🇷 (bonjour!).
+💞️ I’m looking to collaborate on data science projects...
 
-📫 How to reach me **fibialabi4@gmail.com**... or linkedIn: **https://www.linkedin.com/in/enyojo-alabi/**.
+
+### 🤝 Let’s Connect
+📫 Email: **fibialabi4@gmail.com**... or linkedIn: **https://www.linkedin.com/in/enyojo-alabi/**.
 <!---
 enyo-ojo/enyo-ojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
