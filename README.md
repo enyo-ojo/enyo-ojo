@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About me
 I’m a data and analytics professional 📈 with a background in **Computer Science** (*Bachelor's*) and a recent **MSc in Business Analytics** graduate with a concentration in - Machine Learning.
-My journey started in front-end development and evolved into data science through hands-on projects, hackathons, and coursework. Along the way, I’ve built skills in:
+My journey started in **[front-end development](https://enyo-ojo.github.io/enyoportfolio.github.io/)** and evolved into **data science** through hands-on projects, hackathons, and coursework. Along the way, I’ve built skills in:
 - SQL, Python, Tableau, Power BI, Streamlit, Snowflake
 - Experiment design, campaign performance, churn modeling
 - Cloud tools like AWS, GCP, and Azure (currently learning!)
