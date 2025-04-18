@@ -3,7 +3,7 @@
 
 - 👋 My name is Enyo (en-your)
 #### My Portfolio Projects: [Link](https://github.com/enyo-ojo/My-Portfolio/)
-**📊 My Streamlit Dashboard: https://share.streamlit.io/user/enyo-ojo |** **My Tableau Visuals: https://public.tableau.com/app/profile/enyo.alabi/vizzes** 
+**📊 [My Streamlit Dashboard](https://share.streamlit.io/user/enyo-ojo) |** **[My Tableau Visuals](https://public.tableau.com/app/profile/enyo.alabi/vizzes)** 
 ***
 
 ### 👩‍💻 About me
@@ -31,7 +31,7 @@ Outside of tech, I run a sustainable fashion brand on Instagram *[@fibs.madeit](
 
 
 ### 🤝 Let’s Connect
-📫 Email: **fibialabi4@gmail.com**... or linkedIn: **https://www.linkedin.com/in/enyojo-alabi/**.
+📫 Email: **fibialabi4@gmail.com**... or **[LinkedIn](https://www.linkedin.com/in/enyojo-alabi/)**.
 <!---
 enyo-ojo/enyo-ojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
