@@ -25,7 +25,7 @@ Outside of tech, I run a sustainable fashion brand on Instagram *[@fibs.madeit](
 - Build user-friendly dashboards
 - Connect insights with real-world impact
 
-- I also enjoy reading 📚. I’m currently exploring cloud deployment, advanced machine learning, and… French 🇫🇷 (bonjour!).
+I also enjoy reading 📚. I’m currently exploring cloud deployment, advanced machine learning, and… French 🇫🇷 (bonjour!).
 💞️ I’m looking to collaborate on data science projects...
 
 
