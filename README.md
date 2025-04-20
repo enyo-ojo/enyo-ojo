@@ -1,5 +1,4 @@
 # Hi 👋
-[Howdy Hello GIF by Holler Studios](https://github.com/user-attachments/assets/e70f509a-b416-4782-8699-11d9e893118b)
 
 -  My name is Enyo (en-your)
 #### My Portfolio Projects: [Link](https://github.com/enyo-ojo/My-Portfolio/)
