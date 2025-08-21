@@ -2,7 +2,7 @@
 
 -  My name is Enyo (en-your)
 #### My Portfolio Projects: [Link](https://github.com/enyo-ojo/My-Portfolio/)
-**[Resume](https://github.com/enyo-ojo/Enyojo-s-Resume/blob/main/Product%20Data%20Scientist%20-%20Enyojo%20A%20.pdf)**
+**[My Resume](https://github.com/enyo-ojo/Enyojo-s-Resume/blob/main/Product%20Data%20Scientist%20-%20Enyojo%20A%20.pdf)|**
 **📊 [My Streamlit Dashboard](https://share.streamlit.io/user/enyo-ojo) |** **[My Tableau Visuals](https://public.tableau.com/app/profile/enyo.alabi/vizzes)** 
 ***
 
